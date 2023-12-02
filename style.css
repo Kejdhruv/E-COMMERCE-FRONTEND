@@ -1,0 +1,372 @@
+html * {
+    padding: 0;
+    margin: 0;
+    background-position: fixed;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+header {
+    padding: 2vh;
+    margin: 0;
+
+
+}
+
+.li1 {
+    display: inline;
+    padding: 1vh;
+    padding-left: 1.5vh;
+    padding-right: 1.5vh;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: MEDIUM;
+    font-weight: 700;
+
+
+}
+
+.li1:hover {
+    background-color: darkcyan;
+    color: whitesmoke;
+    border-radius: 7%;
+}
+
+.CONTAINER {
+    background-image: url(VOYAGE.jpg);
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.CONTAINER2 {
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+}
+
+.box1 {
+    width: 30vw;
+    margin-left: 10vw;
+    height: 60vh;
+    margin-top: 10vh;
+    margin-right: 10vw;
+
+    background-image: url(MEN\ CATALOUGE\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8%;
+}
+
+.box2 {
+    width: 30vw;
+    margin-right: 10vw;
+    height: 60vh;
+    margin-top: 10vh;
+    margin-left: 10vw;
+    background-image: url(WOMEN.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8%;
+}
+
+.boxa {
+    width: 30vw;
+    height: 60vh;
+    box-sizing: content-box;
+    opacity: 0;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8%;
+}
+
+.box1:hover {
+    opacity: 0.8;
+    transition-delay: 0.1s;
+    transition-duration: 1.5s;
+
+}
+
+.boxa:hover {
+    opacity: 0.9;
+    background-color: rgb(5, 130, 172);
+    text-decoration: none;
+    color: whitesmoke;
+    transition-delay: 0.1s;
+    transition-duration: 1.5s;
+
+
+
+}
+
+.h2a {
+    font-size: large;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.li2 {
+    padding: 2.5vh;
+    font-size: medium;
+    font-weight: 500;
+}
+
+.li2:hover {
+    font-size: large;
+    font-weight: 700;
+}
+
+.boxb {
+    width: 30vw;
+    height: 60vh;
+    box-sizing: content-box;
+    opacity: 0;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8%;
+}
+
+.box2:hover {
+    opacity: 0.8;
+    transition-delay: 0.1s;
+    transition-duration: 1.5s;
+
+}
+
+.boxb:hover {
+    opacity: 0.9;
+    background-color: rgb(143, 112, 34);
+    text-decoration: none;
+    color: whitesmoke;
+    transition-delay: 0.1s;
+    transition-duration: 1.5s;
+
+
+}
+
+.h2b {
+    font-size: large;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.li3 {
+    padding: 2.5vh;
+    font-size: medium;
+    font-weight: 500;
+}
+
+.li3:hover {
+    font-size: large;
+    font-weight: 700;
+}
+
+.CONTAINER3 {
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+}
+
+.box3 {
+    width: 30vw;
+    margin-left: 10vw;
+    height: 60vh;
+    margin-top: 5vh;
+    margin-right: 10vw;
+
+    background-image: url(backpacks.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8%;
+}
+
+.boxc {
+    width: 30vw;
+    height: 60vh;
+    box-sizing: content-box;
+    opacity: 0;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8%;
+}
+
+.box4 {
+    width: 30vw;
+    margin-right: 10vw;
+    height: 60vh;
+    margin-top: 5vh;
+    margin-left: 10vw;
+    background-image: url(TENTS.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8%;
+}
+
+.boxd {
+    width: 30vw;
+    height: 60vh;
+    box-sizing: content-box;
+    opacity: 0;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8%;
+}
+
+.box3:hover {
+    opacity: 0.8;
+    transition-delay: 0.1s;
+    transition-duration: 1.5s;
+
+}
+
+.boxc:hover {
+    opacity: 0.9;
+    background-color: rgb(6, 6, 65);
+    text-decoration: none;
+    color: whitesmoke;
+    transition-delay: 0.1s;
+    transition-duration: 1.5s;
+
+
+
+}
+
+.h2c {
+    font-size: large;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.li4 {
+    padding: 2.5vh;
+    font-size: medium;
+    font-weight: 500;
+}
+
+.li4:hover {
+    font-size: large;
+    font-weight: 700;
+}
+
+.box4:hover {
+    opacity: 0.8;
+    transition-delay: 0.1s;
+    transition-duration: 1.5s;
+
+}
+
+.boxd:hover {
+    opacity: 0.9;
+    background-color: rgb(49, 113, 115);
+    text-decoration: none;
+    color: whitesmoke;
+    transition-delay: 0.1s;
+    transition-duration: 1.5s;
+
+
+
+}
+
+.h2d {
+    font-size: large;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.li5 {
+    padding: 2.5vh;
+    font-size: medium;
+    font-weight: 500;
+}
+
+.li5:hover {
+    font-size: large;
+    font-weight: 700;
+}
+
+.CONTAINER4 {
+    width: 80vw;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10vw;
+    background-image: url(ACCESSORIES.png);
+    border-radius: 2.5%;
+}
+
+.h2e {
+    font-size: xx-large;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 5vh;
+    padding-bottom: 3vh;
+}
+
+.box5 {
+    box-sizing: content-box;
+    width: 80vw;
+    height: 30vh;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    border-radius: 2.5%;
+
+
+
+
+
+
+}
+
+.CONTAINER4:hover {
+    opacity: 0.8;
+    transition-delay: 0.1s;
+    transition-duration: 1.5s;
+}
+
+.box5:hover {
+    background-color: rgb(76, 35, 15);
+    color: whitesmoke;
+    transition-delay: 0.1s;
+    transition-duration: 1.5s;
+    opacity: 0.9;
+}
+
+.boxe {
+    color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+    box-sizing: content-box;
+    opacity: 0;
+    padding-top: 4vh
+}
+
+.li6 {
+    display: inline;
+    padding: 100px 2vw;
+    font-size: large;
+    font-weight: 500;
+    padding-top: 4vh;
+
+}
+
+.boxe:hover {
+    opacity: 0.9;
+}
+
+.li6:hover {
+    font-size: larger;
+    font-weight: 700;
+
+
+}
