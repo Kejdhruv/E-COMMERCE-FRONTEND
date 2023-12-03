@@ -302,6 +302,7 @@ header {
     margin-left: 10vw;
     background-image: url(ACCESSORIES.png);
     border-radius: 2.5%;
+
 }
 
 .h2e {
@@ -353,7 +354,9 @@ header {
 
 .li6 {
     display: inline;
-    padding: 100px 2vw;
+    padding-top: 100px ;
+    padding-left: 2vw ;
+    padding-right: 1VW ; 
     font-size: large;
     font-weight: 500;
     padding-top: 4vh;
@@ -370,3 +373,147 @@ header {
 
 
 }
+.hr{
+    background-color: darkcyan;
+}
+.CONTAINER5{
+    width:100vw ;
+    height:8vh; 
+    display: flex;
+    text-align: center;
+    align-content: center ;
+    justify-content: center;
+    margin-bottom: 2vh ;
+    margin-top : 3vh ; 
+}
+.CONTAINER6{
+    width:100vw ; 
+    height:50vh ; 
+    display: flex;
+    
+    justify-content: center;
+    padding-top: 2vh;
+    
+}
+.item1{
+    width:15vw ; 
+    height:40vh ; 
+    border: 2px solid #6b6252;
+    margin-left: 2vw ;
+    margin-right: 2vw ;
+    text-align: center;
+ 
+    justify-content: center;
+    font-size: small ;
+    font-weight: 500 ; 
+    background-color: #f0E4ce;
+    color: #A59175;
+    border-radius: 8% ;
+    
+}
+.item2{
+    width:15vw ; 
+    height:40vh ; 
+    border: 2px solid #9a999f;
+    margin-left: 2vw ;
+    margin-right: 2vw ;
+    text-align: center;
+    
+    justify-content: center;
+    font-size: small ;
+    font-weight: 500 ; 
+    border-radius: 8% ;
+    background-color: #9a999f;
+    color: whitesmoke;
+
+
+}
+.item3{
+    width:15vw ; 
+    height:40vh ; 
+    border: 2px solid #5f9bb8;
+    margin-left: 2vw;
+    margin-right: 2vw ;
+    text-align: center;
+    
+    justify-content: center;
+    font-size: small ;
+    font-weight: 500 ; 
+    border-radius: 8% ;
+    background-color: #acbdc7 ;
+    color: whitesmoke;
+
+}
+.item4{
+    width:15vw ; 
+    height:40vh ; 
+    border: 2px solid #b0a38e;
+    margin-left: 2vw ;
+    margin-right: 2vw ;
+    text-align: center;
+   
+    justify-content: center;
+    font-size: small;
+    font-weight: 500 ; 
+    border-radius: 8% ;
+    background-color: #d4c8b7;
+    color: black;
+
+}
+.item5{
+    width:15vw ; 
+    height:40vh ; 
+    border: 2px solid #8e898d ; 
+    margin-left: 2vw ;
+    margin-right: 2vw ;
+    text-align: center;
+  
+    justify-content: center;
+    font-size: small;
+    font-weight: 500 ; 
+    border-radius: 8% ;
+    color: whitesmoke ; 
+    background-color: #625253 ; 
+
+}
+.CONTAINER7{
+    WIDTH:100vw ; 
+    height: 60vh ;
+    display:flex;
+    background-color: darkcyan;
+    color: whitesmoke;
+    justify-content: center;
+    opacity: 0.8 ;
+    background-image: url(https://www.tyrol.com/images/nbtrisosnlo-/walking-hiking-in-tirol.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+
+}
+.footer1{
+    height:40vh ; 
+    width:20vw ;
+    padding:5vh 10vw;
+    font-size: medium;
+    font-weight: 600;
+    text-decoration: none;
+    
+
+}
+.li7{
+    padding: 1.5vh ;
+    border-radius: 4%  ;
+    text-decoration: none;
+}
+.li7:hover{
+    background-color: darkcyan;
+    color: whitesmoke;
+
+}
+.f1{
+    background-color: darkcyan;
+    font-size: large;
+    text-align: center;
+}
+
